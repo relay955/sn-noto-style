@@ -1,0 +1,12 @@
+{
+  "name": "sn-noto-style",
+  "version": "0.0.1",
+  "main": "dist/dist.css",
+  "sn": {
+    "main": "dist/dist.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/relay955/sn-noto-style.git"
+  }
+}
