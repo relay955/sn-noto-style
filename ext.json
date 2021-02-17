@@ -4,7 +4,7 @@
   "content_type": "SN|Theme",
   "area": "themes",
   "description": "standard notes theme for my own use, change font to notosans cjk kr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "url": "https://cdn.jsdelivr.net/gh/relay955/sn-noto-style@master/dist/dist.css",
   "download_url": "https://github.com/relay955/sn-noto-style/archive/1.0.0.zip",
   "marketing_url": "https://github.com/relay955/sn-noto-style",
